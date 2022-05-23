@@ -18,3 +18,7 @@
 <h1><a href="https://OctavioBernalGH.github.io/BTC_Reus2022_UD28/Ejercicio_8/parquenatural/index.html">Ejercicio 8_9 A</a></h1>
 
 <h1><a href="https://OctavioBernalGH.github.io/BTC_Reus2022_UD28/Ejercicio_8/parquenatural/especies.html">Ejercicio 8_9 B</a></h1>
+
+<h1><a href="https://OctavioBernalGH.github.io/BTC_Reus2022_UD28/Ejercicio_10/parquenatural/index.html">Ejercicio 10 A</a></h1>
+
+<h1><a href="https://OctavioBernalGH.github.io/BTC_Reus2022_UD28/Ejercicio_10/parquenatural/especies.html">Ejercicio 10 A</a></h1>
