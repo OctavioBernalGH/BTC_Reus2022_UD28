@@ -1,0 +1,48 @@
+html{
+    padding-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div{
+    background-color: antiquewhite;
+    width: 680px;
+    padding-bottom: 5px;
+}
+
+h1{
+    width: 670px;
+    background-color: rgba(250, 221, 94, 0.767);
+    font-size: 25px;
+    color: rgb(115, 119, 119);
+}
+
+h3{
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+h3,i{
+    color: rgba(74, 117, 236, 0.664);
+}
+
+h1,h3,p{
+    padding-left: 10px;
+}
+
+ul{
+    list-style: none;
+
+}
+
+ .resultado{
+     font-style: italic;
+ }
+
+ #ingredpreparacion{
+     font-size: 22px;
+     font-weight: bold;
+     color: rgb(85, 134, 199) }
+
+
+
