@@ -1,0 +1,43 @@
+html{
+    padding: 25px;
+}
+
+p{
+    margin-right: 0px;
+}
+
+h2{
+    color: rgb(37, 202, 37);
+}
+
+h4{
+    font-size: 18px;
+    font-weight: bold;
+    color: rgb(247, 157, 40);
+}
+
+div{
+    text-align: justify;
+    width: 85%;;
+    padding-right: 1.5em;
+    padding-left: 1.5em;
+    padding-bottom: 1.5em;
+}
+
+str{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.parquenatural{
+    color: rgb(108, 163, 25);
+}
+
+.sierrabicuerca{
+    color: rgb(204, 133, 41);
+}
+
+.bienvenidos{
+    border: 1px solid black;
+}
+
