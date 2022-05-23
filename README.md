@@ -12,3 +12,5 @@
 <h1><a href="https://OctavioBernalGH.github.io/BTC_Reus2022_UD28/Ejercicio_5/postressemana.html">Ejercicio 5</a></h1>
 
 <h1><a href="https://OctavioBernalGH.github.io/BTC_Reus2022_UD28/Ejercicio_6_7/parquenatural/index.html">Ejercicio 6_7</a></h1>
+
+<h1><a href="https://OctavioBernalGH.github.io/BTC_Reus2022_UD28/Ejercicio_6_7/parquenatural/especies.html">Ejercicio 6_7</a></h1>
